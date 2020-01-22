@@ -1,0 +1,11 @@
+Serwer: 2020-01-23 00-12-35-246 Created new ServerSocket for GameServer: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=4000]
+Serwer: 2020-01-23 00-12-35-271 Waiting for new connection to game server
+Serwer: 2020-01-23 00-12-42-691 New player was createdPlayer: 1 Status: LoggedIn Address: /127.0.0.1:60479
+Serwer: 2020-01-23 00-12-42-692 Connection from new player
+Serwer: 2020-01-23 00-12-42-693 Waiting for new connection to game server
+Serwer: 2020-01-23 00-12-42-694 Running ClientConnectionThread for: Socket[addr=/127.0.0.1,port=60479,localport=4000]
+Serwer: 2020-01-23 00-12-57-154 New player was createdPlayer: 2 Status: LoggedIn Address: /127.0.0.1:60480
+Serwer: 2020-01-23 00-12-57-156 Connection from new player
+Serwer: 2020-01-23 00-12-57-157 Waiting for new connection to game server
+Serwer: 2020-01-23 00-12-57-158 Running ClientConnectionThread for: Socket[addr=/127.0.0.1,port=60480,localport=4000]
+Serwer: 2020-01-23 00-13-02-903 IOException in commmands Connection reset

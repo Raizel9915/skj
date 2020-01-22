@@ -1,0 +1,2 @@
+javac server\ClientConnectionThread.java server\Game.java server\GameMngement.java server\MainServer.java server\Player.java server\PlayerMngement.java server\PlayerStatus.java server\ServerLogger.java server\ServerMngement.java
+java server.MainServer 4000
